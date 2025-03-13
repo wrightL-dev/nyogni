@@ -21,7 +21,7 @@ Before running this project, make sure you have installed:
 
     ```plaintext
     git clone https://github.com/wrightL-dev/nyogni
-    cd DEPINED
+    cd nyogni
 
 2. **Install the required packages:**
 
