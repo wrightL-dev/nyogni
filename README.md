@@ -28,16 +28,19 @@ Before running this project, make sure you have installed:
     ```plaintext
     npm install axios ws https-proxy-agent
 
-3. **Add accounts in the token.txt file. Example:**
+3. **Add token in the token.txt file. Example:**
 
     ```plaintext
     eyxxxxxxxxxx
+4. **Add refresh token in the refresh.txt file. Example:**
 
-4. **If you want to use a proxy, edit the proxy.txt file. Example:**
+    ```plaintext
+    eyxxxxxxxxxx
+5. **If you want to use a proxy, edit the proxy.txt file. Example:**
    ```plaintext
    http://username:password@ip_address:port
 
-5. **Run the script:**
+6. **Run the script:**
    ```plaintext
    node sogni.js <token>
 
