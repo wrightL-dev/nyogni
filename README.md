@@ -42,7 +42,7 @@ Before running this project, make sure you have installed:
 
 6. **Run the script:**
    ```plaintext
-   node sogni.js <token>
+   node sogni.js
 
 ## Support
 
