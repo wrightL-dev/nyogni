@@ -1,0 +1,5 @@
+{
+    "minDelayInSeconds":60,
+    "maxDelayInSeconds":150,
+    "retryInHours":24
+}
