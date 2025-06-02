@@ -26,8 +26,8 @@ Before running this project, make sure you have installed:
 2. **Install the required packages:**
 
     ```plaintext
-    npm install axios ws https-proxy-agent
-
+    npm install ws axios https-proxy-agent socks-proxy-agent readline
+    
 3. **Add token in the token.txt file. Example:**
 
     ```plaintext
